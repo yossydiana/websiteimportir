@@ -1,0 +1,746 @@
+.header1 {
+    background-color: black;
+    color: #ffd600;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Bebas Neue';
+    font-size: 2.5rem;
+    padding: 29px;
+    margin:-20px -8px;
+}
+#badan1 {
+    display: flex;
+    background-color: #ffd600;
+    margin: -20px -8px;
+    
+    padding-top: 90px;
+    padding-bottom: 90px
+}
+#badan1-video {
+    margin: 20px;
+}
+.badan1-card p {
+    margin: 20px;
+}
+
+.cara h1 {
+    font-family: 'Bebas Neue';
+}
+.pertanyaan p {
+    font-family: 'Montserrat';
+}
+
+.seminar {
+    color:#197bc6;;
+    font-size: 1.1rem;
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+
+}
+
+.body2 {
+    display: flex;
+    background-color: white;
+    color: black;
+    justify-content: space-between; 
+    width:100vw;
+    margin-left: -10px;
+}
+
+.body2card {
+    background-color:#f9f8ed;
+    margin-left: 30px;
+    width: 200px;
+    height: 300px;
+    padding:20px;
+}
+
+.body2card p{
+    font-family: 'Montserrat';
+    font-size: 1.1rem;
+}
+
+.body2-paragraf {
+    margin: 20px;
+    display: flex;
+}
+
+.bintang {
+    height: 20px;
+    width: 20px;
+    color: gold;
+}
+
+.body3 {
+    text-align: center;
+    background-color: white;
+}
+
+.metode {
+    font-weight: bold;
+    font-family: 'bebas neue';
+    font-size: 2.0rem;
+    color: #000000;
+}
+
+.mendapatkan {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.0rem;
+    font-weight: bold;
+    color: #000000;
+}
+
+.beli {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1.0rem;
+        color: #000000;
+}
+
+
+.body3-simpel {
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.0rem;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.body3-sayangnya {   
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.0rem;
+    color: #000000;
+    text-align: center;
+    padding-bottom: 1.5rem;
+
+}.satu {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.0rem;
+    padding-bottom: 1rem;
+    font-weight: 400;
+    text-align: left;
+}
+
+.dua {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    padding-bottom: 1rem;
+    font-weight: 500;
+    text-align: left;
+}
+
+.tiga {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    padding-bottom: 1rem;
+    font-weight: 500;
+    text-align: left;
+}
+.apa {
+    font-family: 'Bebas Neue';
+    color:#37272a;
+    font-size: 2.0rem;
+}
+
+
+.importir {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    padding-bottom: 25px;
+    font-weight: 400;
+    text-align: left;
+    color: #000000;
+}
+
+.bukan {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    text-align: left;
+    color: #000000;
+}
+
+.cara {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    text-align: left;
+    color: #000000;
+}
+
+.strategi {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    text-align: left;
+    color: #000000;
+}
+
+
+.dan {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    text-align: left;
+    color: #000000;
+}
+
+.body4 {
+display: flex;
+}
+
+.body4-img {
+    display: block!important;
+    box-sizing: border-box;
+    outline: none;
+    width: 560px;
+}
+  
+.col1 {
+    margin: 0px 30px;
+}
+
+.row {
+    display: flex;
+}
+
+.img-wrapper {
+    margin: 80px 120px;
+}
+
+.box {
+    z-index: -1;
+    height: 100%;
+    content: '';
+    width: calc(100% - 50px);
+    left: 0rem;
+    top: 0rem;
+    background: #ffd600;
+    margin: 0px -30px;
+    padding: 20px 20px;
+}
+
+.foto {
+    width: 545px;
+}
+
+.apa-itu{
+    margin-left: -45px;
+}
+
+.display-1 {
+    color: #494949;
+    font-family: 'Bebas Neue';
+    font-size: 3.5rem;
+    padding-bottom: 15px;
+    margin-left: -39px;
+    margin-top: 9px;
+
+}
+
+.display-7 {
+    color: #494949;
+    font-family: 'Montserrat';
+    font-size: 1.1rem;
+    padding-bottom: 20px;
+    font-weight: 200px;
+    margin-top: -38px;
+    margin-left: -36px;
+    letter-spacing: 0.5px;
+}
+
+
+.body5 {
+    background-color: #f9f8ed;
+    padding: 85px;
+}
+
+.perjalanan {
+    font-family: 'Bebas Neue';
+    font-size: 1.8rem;
+    text-align: center;
+    color: #37272a;
+}
+
+.belajar1 {
+    font-family: 'Montserrat';
+    font-size: 1.1rem;
+    text-align: left;
+    color: #37272a;
+    font-weight: bold;
+    display: flex;
+    
+}
+
+.belajar2 {
+    font-family: 'Montserrat';
+    font-size: 1.1rem;
+    text-align: left;
+    color: #37272a;
+    font-weight: bold;
+    display: flex;
+    
+}
+
+.icon1 {
+    color: #ffd600;
+    font-size: 3rem;
+    width: 100px;
+
+}
+
+.icon2 {
+    color: #ffd600;
+    font-size: 3rem;
+    width: 100px;
+}
+
+.icon3 {
+    color: #ffd600;
+    font-size: 3rem;
+    width: 100px;
+
+}
+
+.icon4 {
+    color: #ffd600;
+    font-size: 3rem;
+    width: 100px;
+}
+
+
+
+.buton {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    align-items: center;
+    background-color: #30a02c;
+    border-color: #30a02c;
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-weight: 600;
+    border-radius: 4px;
+    padding: 12px;
+    
+}
+
+.buton2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border-radius: 4px;
+    background-color: #30a02c;
+    border-color: #30a02c;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 1px;
+    padding: 1.4rem 2rem;
+}
+
+.buton3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border-radius: 4px;
+    background: #30a02c;
+    border-color: #30a02c;
+    color:#ffffff;
+    text-align: center;
+    margin-left: 550px;
+    padding: 1.4rem 2rem;
+}
+
+.buton4 {
+    font-weight: 600;
+    border-radius: 4px;
+    background: #30a02c;
+    border-color: #30a02c;
+    color:#ffffff;
+    text-align: center;
+    padding: 1.4rem 2rem;
+    margin-left: 48px;
+}
+.div {
+    text-align: center;
+}
+
+.body6  {
+    background-image: url("https://importir.org/assets/images/bg-home-org-1-1080x720.jpg");
+    background-size: cover;
+    width: 1358px;
+    height: 900px; 
+}
+
+.kuning {
+    background-color: #ffd600;
+    width: 700px;
+    height: 800px; 
+    position:relative ;
+    margin-left: 141px;
+    margin-top: -204px;
+}
+
+.mau {
+    font-family: 'Bebas Neue';
+    font-size: 1.7rem;
+    text-align: center;
+    color: #000000;
+}
+
+.konsultasi {
+    font-family: 'Times New Roman';
+    font-size: 1.0rem;
+    text-align: center;
+    color: #000000;
+}
+
+.seminar1 {
+    color:#000000;
+    font-size: 1.1rem;
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-left: 28px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+
+}
+
+.cara1 {
+    font-family: 'Bebas Neue';
+    font-size: 1.1rem;
+    text-align: left;
+    color: #000000;
+    margin-left: 48px;
+}
+
+.bisa1 {
+    font-family: 'Montserrat';
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-left: 28px;
+
+}
+.pertanyaan1 p {
+    font-family: 'Montserrat';
+    margin-left: 48px;
+}
+
+.tapi1 {
+    font-family: Montserrat;
+    letter-spacing: 0.5px;
+    line-height: 1.7;
+    color: #232323;
+    margin-left: 28px;
+    
+}
+
+.cara7 {
+    font-family: 'Montserrat';
+    color: #232323; 
+    font-size: 1.1rem;
+    font-weight: 300;
+    text-align: left;
+    line-height: 1.6;
+    margin-left: 28px;
+}
+
+.body7 {
+    color: #232323;
+}
+
+.icon5 {
+    color: #ffd600;
+    font-size: 3rem;
+    width: 100px;
+
+}
+
+.icon6 {
+    color: #ffd600;
+    font-size: 3rem;
+    width: 100px;
+}
+
+.icon7 {
+    color: #ffd600;
+    font-size: 3rem;
+    width: 100px;
+
+}
+
+.body8 {
+    display: flex;
+    /* padding:131px; */
+}
+.icon8 {
+    color: #ffd600;
+    font-size: 3rem;
+    width: 100px;
+}
+.body8-h4 {
+    font-family: 'Bebas Neue', display;
+    font-size: 3.5rem;
+    color: #37272a;
+    text-align: left;
+}
+
+.body8-paragraf{
+    font-style: normal;
+    line-height: 1.6;
+    width: 100%;
+    font-family: 'Montserrat';
+    font-size: 1.1rem;
+}
+
+.buton5 {
+    letter-spacing: 1px;
+    font-weight: 600;
+    border-radius: 4px;
+    background-color: #ffd600;
+    border-color: #ffd600;
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    padding: 1.4rem 2rem;
+   
+}
+
+.buton6 {
+    letter-spacing: 1px;
+    font-weight: 600;
+    border-radius: 4px;
+    color: #ffffff;
+    background-color: #30a02c;
+    border-color: #30a02c;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    padding: 1.4rem 2rem;
+}
+
+.body8-kuning {
+    background-color: #ffd600;
+}
+
+.imgbackground2 {
+    padding: 70px 70px 70px  0;
+}
+.box {
+    background-color: #ffffff;
+    height: 100%;
+    box-shadow: 0 0 35px 0 rgb(0 0 0 / 7%);
+    transition: transform 0.5s ease;
+    box-sizing: border-box;
+
+}
+.body9 {
+    display: flex;
+    justify-content: space-around; 
+}
+
+.gold {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.body9card {
+    
+    background-color: #f9f8ed;
+    width: 300px;
+    height: 550px;
+    padding-bottom: 15px;
+    color: #30a02c;
+    font-size: inherit;
+}
+
+/* .ceklis1 {
+    display: flex;
+    /* font-family: 'Montserrat', sans-serif; */
+    /* font-size: 1.1rem; */
+    /* letter-spacing: 0.5px; */
+    /* line-height: 1.7; */
+    /* font-family: */
+ 
+    .ceklis1 {
+        font-family: 'Montserrat';
+        font-size: 14px;
+    }
+
+.platinum {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.diamond {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; 
+
+}
+
+.body10 {
+    background-color: #ffd600;
+    display: flex;
+}
+
+
+.buton7 {
+    letter-spacing: 1px;
+    font-weight: 600;
+    border-radius: 4px;
+    color: #ffffff;
+    background-color: #30a02c;
+    border-color: #30a02c;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    padding: 1.0rem 2rem;
+    margin-left: 300px;
+}
+
+.atau {
+    color: #000000;
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    margin-left: 37px;   
+}
+
+.harga {
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    margin-left: 37px;   
+}
+
+.body11 {
+    background-color: #000000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.body111 {
+    display: flex;
+}
+
+.importir {
+    color: #ffd600;
+    font-family: 'Bebas Neue';
+    font-size: 50px;
+    margin-left: 60px;
+}
+
+.adalah p{
+    color: #efefef;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    margin-left: 60px;
+}
+
+.daftar p {
+    font-weight: bold;
+    color: #ffd600;
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+  
+}
+
+.kontak {
+    color: #ffffff;
+    font-style: normal;
+    font-family: 'Bebas Neue';
+    font-size: 50px;
+    margin-left: 60px;
+}
+
+.kantor {
+    color: #efefef;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    margin-left: 60px;
+}
+
+.telepon {
+    color: #ffffff;
+    font-size: 1.1rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 60px;
+}
+
+.email {
+    color: #ffffff;
+    font-size: 1.1rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 60px;
+}
+
+.terkait {
+    color: #ffffff;
+    font-style: normal;
+    font-family: 'Bebas Neue';
+    font-size: 50px;
+    margin-left: 60px;
+}
+
+.importircom {
+    color: #ffffff;
+    font-size: 1.1rem;
+    font-family: 'Montserrat';
+    margin-left: 60px;
+}
+
+.keunggulan {
+    color: #ffffff;
+    font-style: normal;
+    font-family: 'Bebas Neue';
+    font-size: 50px;
+    margin-left: 60px;
+}
+
+.pengiriman {
+    color: #ffffff;
+    font-size: 1.1rem;
+    font-family: 'Montserrat';
+    margin-left: 60px;
+}
+
+.body11-card5 {
+    color: #000000;
+    vertical-align: middle;
+    font-size: 1.2rem;
+}
+
+.buton8 {
+    background-color:  #a0a0a0;
+    border-color: #a0a0a0;
+    color: #ffffff;
+    font-family: 'Bebas Neue', display;
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    text-align: center;
+}
+.buton9 {
+    background-color: #30a02c;
+    border-color: #30a02c;
+    color: #ffffff;
+    font-family: 'Bebas Neue', display;
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    text-align: center;
+}
+
+.buton10 {
+    background-color:  #a0a0a0;
+    border-color: #a0a0a0;
+    color: #ffffff;
+    font-family: 'Bebas Neue', display;
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    text-align: center;
+}
+
+    .box1 {
+        flex-direction: column;
+        padding: 25px 66px 25px;
+        border: 1px solid #dadce2;
+        font-family: 'Bebas Neue', display;
+        text-align: center;
+        color: #000000;
+    }
+   
+   
